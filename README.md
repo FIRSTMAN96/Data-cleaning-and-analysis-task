@@ -45,7 +45,7 @@ The Excel file includes the following sheets:
 Download the Excel file, navigate through the sheets, and explore how real-world datasets are cleaned and analyzed for decision-making.
 
 ## 📥 File
-- [Download the Excel Workbook](./3MTT Mini project-Data Cleaning and Analysis.xlsx) 
+- [Download the Excel Workbook](https://github.com/FIRSTMAN96/Data-cleaning-and-analysis-task/blob/8b25c110f00e4b4cb91ecaa7c56167e63b181fb7/3MTT%20Mini%20project-Data%20Cleaning%20and%20Analysis.xlsx) 
 
 ## 📌 Author
 **Arthur Mmadumbu**  
